@@ -19,4 +19,18 @@ const perguntas = [
             "pussy fresh"
         ]
     },
+    {
+         enuciado:Você faz o que
+        alternativas: [
+            "pussy clean"
+            "pussy fresh"
+        ]
+    },
+    {
+         enuciado:Você faz o que
+        alternativas: [
+            "pussy clean"
+            "pussy fresh"
+        ]
+    },
 ]
