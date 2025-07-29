@@ -9,7 +9,7 @@ const perguntas = [
         enuciado: Você faz o que
         alternativas: [ 
             { 
-            texto: "pussy clean"
+            texto: ""
             afirmacao: "afirmação"
             },
             {
