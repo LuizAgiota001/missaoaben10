@@ -9,11 +9,11 @@ const perguntas = [
         enuciado: Você faz o que
         alternativas: [ 
             { 
-            texto: ""
+            texto: "pussy clean",
             afirmacao: "afirmação"
             },
             {
-            texto: "pussy clean"
+            texto: "pussy clean",
             afirmacao: "afirmação"
             },
         ]
@@ -23,11 +23,11 @@ const perguntas = [
         enuciado: Você faz o que
         alternativas: [ 
             { 
-            texto: "pussy clean"
+            texto: "pussy clean",
             afirmacao: "afirmação"
             },
             {
-            texto: "pussy clean"
+            texto: "pussy clean",
             afirmacao: "afirmação"
             },
         ]
@@ -37,11 +37,11 @@ const perguntas = [
         enuciado: Você faz o que
         alternativas: [ 
             { 
-            texto: "pussy clean"
+            texto: "pussy clean",
             afirmacao: "afirmação"
             },
             {
-            texto: "pussy clean"
+            texto: "pussy clean",
             afirmacao: "afirmação"
             },
         ]
@@ -51,11 +51,11 @@ const perguntas = [
         enuciado: Você faz o que
         alternativas: [ 
             { 
-            texto: "pussy clean"
+            texto: "pussy clean",
             afirmacao: "afirmação"
             },
             {
-            texto: "pussy clean"
+            texto: "pussy clean",
             afirmacao: "afirmação"
             },
         ]
