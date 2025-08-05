@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enuciado: Você faz o que
+        enuciado: "Você faz o que",
         alternativas: [ 
             { 
             texto: "alternativa",
@@ -20,7 +20,7 @@ const perguntas = [
     },
    
     {
-        enuciado: Você faz o que
+        enuciado: "Você faz o que",
         alternativas: [ 
             { 
             texto: "alternativa",
@@ -34,7 +34,7 @@ const perguntas = [
     },
    
     {
-        enuciado: Você faz o que
+        enuciado: "Você faz o que",
         alternativas: [ 
             { 
             texto: "alternativa",
@@ -48,7 +48,7 @@ const perguntas = [
     },
    
     {
-        enuciado: Você faz o que
+        enuciado: "Você faz o que",
         alternativas: [ 
             { 
             texto: "alternativa",
@@ -61,8 +61,8 @@ const perguntas = [
         ]
     },
    
-let atual =0;
-let perguntaATual;
+let atual = 0;
+let perguntaAtual;
 
 function mostraPergunta () {
     perguntaAtual = pergunta [atual];
